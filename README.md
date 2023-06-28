@@ -1,5 +1,5 @@
 <p align="center">
-<img height="180px" src="https://lanyard.cnrad.dev/api/216282035503890442?theme=dark&idleMessage=☄️%20Developer Of A Website And Game%20☄️&bg=050F2C&showDisplayName=true" />
+<img height="180px" src=https://github.com/account?theme=dark&idleMessage=☄️%20Developer Of A Website And Game%20☄️&bg=050F2C&showDisplayName=true" />
 </p>
 <p align="center"> <img src="https://count.getloli.com/get/@Ritshu?theme=rule34" alt="ritshu" /> </p>
 
