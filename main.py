@@ -8,7 +8,6 @@ import random
 import hashlib
 from asyncio import sleep as asyncio_sleep
 from pyrogram.types import InlineQueryResultArticle, InputTextMessageContent, InlineKeyboardMarkup, InlineKeyboardButton
-from commands import *
 import os
 from PIL import Image
 
