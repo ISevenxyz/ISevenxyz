@@ -9,7 +9,7 @@ const disk = require('diskusage');
 const token = '7291179531:AAFlulaeGK3dEidFAnnYOFZsc3t0MpON8fw';
 
 // Folder yang akan di-backup
-const folderToBackup = './myfolder'; // Jalur relatif ke folder yang ingin di-backup
+const folderToBackup = './root'; // Jalur relatif ke folder yang ingin di-backup
 
 // Inisialisasi bot
 const bot = new TelegramBot(token, { polling: true });
